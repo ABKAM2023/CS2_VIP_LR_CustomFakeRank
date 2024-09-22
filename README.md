@@ -1,4 +1,6 @@
 # EN
+To ensure the proper functioning of the plugin, please update [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) to the latest version.
+
 [VIP(CSSharp)] [LR] CustomFakeRank - adds the ability for VIP players to select custom fake ranks.
 
 # In vip.json
@@ -134,7 +136,7 @@
 ```
 
 # Installation:
-1. Install [C# LevelsRanks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) and [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore).
+1. Install [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) and [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore).
 2. Extract the plugin archive to the server.
 3. Configure the `vip_customfakerank.json` file.
 4. Add the necessary translations to the translation file.
@@ -142,6 +144,8 @@
 6. Restart the server.
 
 # RU
+Для корректной работы плагина необходимо обновить [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) до последней версии.
+
 [VIP(CSSharp)] [LR] CustomFakeRank - добавляет возможность VIP-игрокам выбирать кастомные фейковые ранги.
 
 # В vip.json
@@ -277,7 +281,7 @@
 ```
 
 # Установка:
-1. Установите [C# LevelsRanks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) и [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)
+1. Установите [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) и [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)
 2. Распакуйте архив с плагином на сервер.
 3. Настройте конфигурационный файл `vip_customfakerank.json`.
 4. Введите необходимые переводы в файл переводов.
