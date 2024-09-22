@@ -1,7 +1,7 @@
 # EN
 To ensure the proper functioning of the plugin, please update [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) to the latest version.
 
-[VIP(CSSharp)] [LR] CustomFakeRank - adds the ability for VIP players to select custom fake ranks.
+**[VIP(CSSharp)] [LR] CustomFakeRank** - adds the ability for VIP players to select custom fake ranks.
 
 # In vip.json
 ```json
@@ -146,7 +146,7 @@ To ensure the proper functioning of the plugin, please update [LR FakeRank](http
 # RU
 Для корректной работы плагина необходимо обновить [LR FakeRank](https://github.com/ABKAM2023/CS2-LR-FakeRank/releases) до последней версии.
 
-[VIP(CSSharp)] [LR] CustomFakeRank - добавляет возможность VIP-игрокам выбирать кастомные фейковые ранги.
+**[VIP(CSSharp)] [LR] CustomFakeRank** - добавляет возможность VIP-игрокам выбирать кастомные фейковые ранги.
 
 # В vip.json
 ```json
